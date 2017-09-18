@@ -1,7 +1,3 @@
-# Rotations
-Public Rotations for Thunderstorm PvP
-
-
 # Votations
 Thunderstorm PvP uses a new map voting system called "votations". A votation is similar to the traditional rotation system, just ignores the order of maps listed and instead allows users decide by voting for the next map. Rotations now act more as a "map selection" of potential maps that can be played.
 
